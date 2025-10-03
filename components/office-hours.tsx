@@ -40,7 +40,7 @@ export function OfficeHours() {
           </div>
           <div className="flex items-center text-sm text-muted-foreground">
             <Phone className="w-4 h-4 mr-2" />
-            <span>Emergency support: (555) 123-4567</span>
+            <span>Emergency support: (561) 245-1895</span>
           </div>
         </div>
 

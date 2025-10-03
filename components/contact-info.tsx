@@ -6,19 +6,19 @@ export function ContactInfo() {
     {
       icon: Phone,
       label: "Phone",
-      value: "(555) 123-4567",
+      value: "(561) 245-1895",
       description: "Call us for immediate assistance",
     },
     {
       icon: Mail,
       label: "Email",
-      value: "info@octaveinsurance.com",
+      value: "Info@octavehealthinsuranceagency.com",
       description: "Send us your questions anytime",
     },
     {
       icon: MapPin,
       label: "Address",
-      value: "123 Insurance Way, Suite 100\nYour City, ST 12345",
+      value: "350 Camino Gardens Blvd., Boca Raton, FL 33423",
       description: "Visit us for in-person consultations",
     },
     {

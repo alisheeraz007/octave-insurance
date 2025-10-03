@@ -58,20 +58,20 @@ export function Footer() {
             <ul className="space-y-3">
               <li className="flex items-center text-muted-foreground">
                 <Phone className="w-4 h-4 mr-2" />
-                <span>(555) 123-4567</span>
+                <span>(561) 245-1895</span>
               </li>
               <li className="flex items-center text-muted-foreground">
                 <Mail className="w-4 h-4 mr-2" />
-                <span>info@octaveinsurance.com</span>
+                <span>Info@octavehealthinsuranceagency.com</span>
               </li>
               <li className="flex items-start text-muted-foreground">
                 <MapPin className="w-4 h-4 mr-2 mt-1" />
                 <span>
-                  123 Insurance Way
+                  350 Camino Gardens Blvd,
                   <br />
-                  Suite 100
+                  Boca Raton,
                   <br />
-                  Your City, ST 12345
+                  FL 33423.
                 </span>
               </li>
             </ul>
