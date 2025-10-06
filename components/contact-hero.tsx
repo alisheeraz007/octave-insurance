@@ -6,14 +6,14 @@ export function ContactHero() {
       icon: Phone,
       title: "Call Us",
       description: "Speak directly with our insurance experts",
-      value: "(561) 245-1895",
+      value: "(833) 535-0060",
       action: "Call Now",
     },
     {
       icon: Mail,
       title: "Email Us",
       description: "Send us your questions anytime",
-      value: "Info@octavehealthinsuranceagency.com",
+      value: "Info@octaveinsuranceagency.com",
       action: "Send Email",
     },
     {

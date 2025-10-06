@@ -36,7 +36,7 @@ export function CallToAction() {
 
                 <div className="flex flex-col sm:flex-row gap-4">
                   <Button size="lg" className="text-lg px-8">
-                    Call (561) 245-1895
+                    Call (833) 535-0060
                     <Phone className="ml-2 w-5 h-5" />
                   </Button>
                   <Button variant="outline" size="lg" className="text-lg px-8 bg-transparent">

@@ -11,7 +11,7 @@ export function TeamSection() {
       bio: "Sarah founded Octave Insurance with a passion for helping seniors navigate Medicare. She holds multiple insurance licenses and is committed to providing honest, personalized guidance.",
       image: "/professional-headshot-of-smiling-senior-woman.jpg",
       email: "sarah@octaveinsurance.com",
-      phone: "(561) 245-1895",
+      phone: "(833) 535-0060",
     },
     {
       name: "Michael Chen",

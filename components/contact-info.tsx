@@ -6,13 +6,13 @@ export function ContactInfo() {
     {
       icon: Phone,
       label: "Phone",
-      value: "(561) 245-1895",
+      value: "(833) 535-0060",
       description: "Call us for immediate assistance",
     },
     {
       icon: Mail,
       label: "Email",
-      value: "Info@octavehealthinsuranceagency.com",
+      value: "Info@octaveinsuranceagency.com",
       description: "Send us your questions anytime",
     },
     {
